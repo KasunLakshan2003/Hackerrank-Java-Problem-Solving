@@ -11,3 +11,4 @@ This repository contains my solutions to various Hackerrank challenges, categori
 | Birthday Cake Candles | [BirthdayCakeCandles.java](./algorithms/warmup/BirthdayCakeCandles.java) |
 |Mini-Max Sum | [Mini-MaxSum.java](./algorithms/warmup/Mini-MaxSum.java) |
 |Compare The Triplets | [CompareTheTriplets](./algorithms/warmup/CompareTheTriplets.java) |
+|Slove Me First | [SloveMeFirst](./algorithms/warmup/SolveMeFirst.java)
