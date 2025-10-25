@@ -10,4 +10,4 @@ This repository contains my solutions to various Hackerrank challenges, categori
 | Simple Array Sum | [SimpleArraySum.java](./algorithms/warmup/simplearraysum.java) |
 | Birthday Cake Candles | [BirthdayCakeCandles.java](./algorithms/warmup/BirthdayCakeCandles.java) |
 |Mini-Max Sum | [Mini-MaxSum.java](./algorithms/warmup/Mini-MaxSum.java) |
-|Compare The Triplets | [CompareTheTriplets])./algorithms/warmup/CompareTheTriplets.java) |
+|Compare The Triplets | [CompareTheTriplets](./algorithms/warmup/CompareTheTriplets.java) |
