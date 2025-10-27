@@ -13,3 +13,4 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Compare The Triplets | [CompareTheTriplets](./algorithms/warmup/CompareTheTriplets.java) |
 |Slove Me First | [SloveMeFirst](./algorithms/warmup/SolveMeFirst.java) |
 |The Hurdles Race | [ (TheHurdlesRace](./algorithms/warmup/TheHurdleRace.java) |
+|A Very Big Sum | [A Very Big Sum](./algorithms/warmup/aVeryBigSum.java) |
