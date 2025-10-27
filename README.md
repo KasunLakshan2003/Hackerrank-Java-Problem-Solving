@@ -7,7 +7,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 
 | Challenge Name | Solution File |
 | :--- | :--- |
-| Simple Array Sum | [SimpleArraySum(./algorithms/warmup/simplearraysum.java) |
+| Simple Array Sum | [SimpleArraySum](./algorithms/warmup/simplearraysum.java) |
 | Birthday Cake Candles | [BirthdayCakeCandles](./algorithms/warmup/BirthdayCakeCandles.java) |
 |Mini-Max Sum | [Mini-MaxSum](./algorithms/warmup/Mini-MaxSum.java) |
 |Compare The Triplets | [CompareTheTriplets](./algorithms/warmup/CompareTheTriplets.java) |
