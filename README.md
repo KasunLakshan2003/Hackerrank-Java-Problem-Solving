@@ -16,3 +16,4 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |A Very Big Sum | [A Very Big Sum](./algorithms/warmup/aVeryBigSum.java) |
 |Bill Division | [Bill Division](./algorithms/warmup/BillDivision.java) |
 |Sales By Match | [Sales By Match](./algorithms/warmup/SalesByMatch.java) |
+|Breaking the Recors | [Breaking the Records](./algorithms/warmup/BreakingTheRecords.java) |
