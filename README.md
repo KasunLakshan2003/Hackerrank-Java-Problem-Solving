@@ -19,4 +19,5 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Breaking the Recors | [Breaking the Records](./algorithms/warmup/BreakingTheRecords.java) |
 |Divisible Sum Pairs | [Divisible Sum Pairs ](./algorithms/warmup/DivisibleSumPairs.java) |
 |Subarray Division | [Subarray Division ](./algorithms/warmup/SubarrayDivision.java) |
+|Diagonal Difference | [Diagonal Difference](/.)
 
