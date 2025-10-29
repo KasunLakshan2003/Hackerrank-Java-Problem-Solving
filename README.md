@@ -21,4 +21,4 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Subarray Division | [Subarray Division ](./algorithms/warmup/SubarrayDivision.java) |
 |Diagonal Difference | [Diagonal Difference](/.algorithms/warmup/DiagonalDifference.java)|
 |Library Fine | [Library Fine](./algorithms/warmup/LibraryFine.java)|
-
+|Plus Minus | [Plus Minus ](./algorithms/warmup/PlusMinus.java) |
