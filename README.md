@@ -17,4 +17,5 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Bill Division | [Bill Division](./algorithms/warmup/BillDivision.java) |
 |Sales By Match | [Sales By Match](./algorithms/warmup/SalesByMatch.java) |
 |Breaking the Recors | [Breaking the Records](./algorithms/warmup/BreakingTheRecords.java) |
+|Divisible Sum Pairs | [Divisible Sum Pairs ](./algorithms/warmup/DivisibleSumPairs.java) |
 
