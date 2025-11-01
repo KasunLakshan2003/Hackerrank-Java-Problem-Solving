@@ -25,4 +25,5 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Day Of the Programmer | [Day Of the Programmer](./algorithms/warmup/DayOftheProgrammer.java)|
 |Jumping On The Clouds Revisited | [Jumping On The Clouds Revisited ](./algorithms/warmup/JumpingOnTheClouds.java) |
 |Viral Advertising | [Viral Advertising](./algorithms/warmup/ViralAdvertising.java) |
+|Jumping On The Clouds | [Jumping On The Clouds](./algorithms/warmup/JumpingOnTheClouds.java)|
 
