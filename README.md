@@ -23,3 +23,5 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Library Fine | [Library Fine](./algorithms/warmup/LibraryFine.java)|
 |Plus Minus | [Plus Minus ](./algorithms/warmup/PlusMinus.java) |
 |Day Of the Programmer | [Day Of the Programmer](./algorithms/warmup/DayOftheProgrammer.java)|
+|Jumping On The Clouds Revisited | [Jumping On The Clouds Revisited ](./algorithms/warmup/JumpingOnTheClouds.java) |
+
