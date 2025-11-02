@@ -17,3 +17,11 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Plus Minus | [Plus Minus ](./algorithms/warmup/PlusMinus.java) |
 
 
+
+## Algorithms - Implementation
+
+
+| Challenge Name | Solution File |
+| :--- | :--- |
+
+
