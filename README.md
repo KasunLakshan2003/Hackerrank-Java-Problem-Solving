@@ -23,5 +23,19 @@ This repository contains my solutions to various Hackerrank challenges, categori
 
 | Challenge Name | Solution File |
 | :--- | :--- |
+|Bill Division | [Bill Division](./algorithms/implementation/BillDivision.java)|
+|Breaking The Records|[Breaking The Records](./algorithms/implementation/BreakingTheRecords.java)|
+|Day Of The Programmer|[Day Of The Programmer](./algorithms/implementation/DayOfTheProgrammer.java)|
+|Divisible Sum Pairs|[Divisible Sum Pairs](./algorithms/implementation/DivisibleSumPairs.java)|
+|Jumping On The Clouds|[Jumping On The Clouds](./algorithms/implementation/JumpingOnTheClouds.java)|
+|Jumping On The Clouds Revisited|[Jumping On The Clouds Revisited](./algorithms/implementation/JumpingOnTheCloudsRevisited.java)|
+|Library Fine|[Library Fine](./algorithms/implementation/LibraryFine.java)|
+|Sales By Match|[Sales By Match](./algorithms/implementation/SalesByMatch.java)|
+|Subarray Division|[Subarray Division](./algorithms/implementation/SubarrayDivision.java)|
+|Taum And B'day|[Taum And B'day](./algorithms/implementation/TaumAndBday.java)|
+|The Hurdles Race|[The Hurdles Race](./algorithms/implementation/TheHurdlesRace.java)|
+|Viral Advertising|[Viral Advertising](./algorithms/implementation/ViralAdvertising.java)|
+
+
 
 
