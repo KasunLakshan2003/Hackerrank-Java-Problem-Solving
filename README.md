@@ -18,7 +18,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 
 
 
-## Algorithms - Implementation
+## Algorithms - Implementation ⚓
 
 
 | Challenge Name | Solution File |
