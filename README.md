@@ -1,4 +1,4 @@
-# Hackerrank Java Problem Solving Solutions 🧩
+# Hackerrank Java Problem Solving Basic Solutions 🧩
 
 This repository contains my solutions to various Hackerrank challenges, categorized for easy reference.
 
