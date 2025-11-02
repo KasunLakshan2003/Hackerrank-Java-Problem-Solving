@@ -26,4 +26,5 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Jumping On The Clouds Revisited | [Jumping On The Clouds Revisited ](./algorithms/warmup/JumpingOnTheClouds.java) |
 |Viral Advertising | [Viral Advertising](./algorithms/warmup/ViralAdvertising.java) |
 |Jumping On The Clouds | [Jumping On The Clouds](./algorithms/warmup/JumpingOnTheClouds.java)|
+|Taum and B'day | [Taum and B'day](./algorithms/warmup/TaumAndBday.java)|
 
