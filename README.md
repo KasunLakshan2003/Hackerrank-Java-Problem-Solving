@@ -3,7 +3,7 @@
 This repository contains my solutions to various Hackerrank challenges, categorized for easy reference.
 
 
-## Algorithms - Warmup
+## Algorithms - Warmup 🚀
 
 | Challenge Name | Solution File |
 | :--- | :--- |
