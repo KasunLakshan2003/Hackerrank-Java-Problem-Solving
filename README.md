@@ -35,6 +35,8 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Taum And B'day|[Taum And B'day](./algorithms/implementation/TaumAndBday.java)|
 |The Hurdles Race|[The Hurdles Race](./algorithms/implementation/TheHurdlesRace.java)|
 |Viral Advertising|[Viral Advertising](./algorithms/implementation/ViralAdvertising.java)|
+|Cut The Sticks|[Cut The Sticks](./algorithms/implementation/CutTheSticks.java)|
+|Beautiful Triplets|[Beautiful Triplets](./algorithms/implementation/BeautifulTriplets)|
 
 
 
