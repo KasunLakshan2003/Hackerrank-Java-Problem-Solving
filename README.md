@@ -37,6 +37,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Viral Advertising|[Viral Advertising](./algorithms/implementation/ViralAdvertising.java)|
 |Cut The Sticks|[Cut The Sticks](./algorithms/implementation/CutTheSticks.java)|
 |Beautiful Triplets|[Beautiful Triplets](./algorithms/implementation/BeautifulTriplets)|
+|Minimum Distances|[Minimum Distances](./algorithms/implementation/MinimumDistances.java)|
 
 
 
