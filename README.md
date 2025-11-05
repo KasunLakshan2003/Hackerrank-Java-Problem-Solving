@@ -15,6 +15,8 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |A Very Big Sum | [A Very Big Sum](./algorithms/warmup/aVeryBigSum.java) |
 |Diagonal Difference | [Diagonal Difference](/.algorithms/warmup/DiagonalDifference.java)|
 |Plus Minus | [Plus Minus ](./algorithms/warmup/PlusMinus.java) |
+|Staircase|[Staircase](./algorithms/warmup/Staircase.java)|
+|Time Conversion|[Time Conversiom](./algorithms/warmup/TimeConversion.java)|
 
 
 
