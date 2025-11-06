@@ -41,6 +41,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Beautiful Triplets|[Beautiful Triplets](./algorithms/implementation/BeautifulTriplets)|
 |Minimum Distances|[Minimum Distances](./algorithms/implementation/MinimumDistances.java)|
 |Beautiful Days At The Movies|[Beautiful Days At The Movies](./algorithms/implementation/BeautifulDaysAtTheMovies.java)|
+|Apple & Oranges|[Apple & Oranges](./algorithms/implementation/Apple&Oranges.java)|
 
 
 
