@@ -40,6 +40,8 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Cut The Sticks|[Cut The Sticks](./algorithms/implementation/CutTheSticks.java)|
 |Beautiful Triplets|[Beautiful Triplets](./algorithms/implementation/BeautifulTriplets)|
 |Minimum Distances|[Minimum Distances](./algorithms/implementation/MinimumDistances.java)|
+|Beautiful Days At The Movies|[Beautiful Days At The Movies](./algorithms/implementation/BeautifulDaysAtTheMovies.java)|
+
 
 
 
