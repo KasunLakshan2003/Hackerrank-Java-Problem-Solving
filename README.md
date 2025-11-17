@@ -44,6 +44,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Apple & Oranges|[Apple & Oranges](./algorithms/implementation/Apple&Oranges.java)|
 |Service Lane|[Service Lane](./algorithms/implementation/ServiceLane.java)|
 |Counting Valleys|[Counting Valleys](./algorithms/implementation/CountingValleys.java)|
+|Find Digits|[Find Digits](./algorithms/implementation/FindDigits.java)|
 
 
 
