@@ -43,6 +43,15 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Beautiful Days At The Movies|[Beautiful Days At The Movies](./algorithms/implementation/BeautifulDaysAtTheMovies.java)|
 |Apple & Oranges|[Apple & Oranges](./algorithms/implementation/Apple&Oranges.java)|
 |Service Lane|[Service Lane](./algorithms/implementation/ServiceLane.java)|
+|Counting Valleys|[Counting Valleys](./algorithms/implementation/CountingValleys.java)|
+
+
+
+
+
+
+
+
 
 
 
