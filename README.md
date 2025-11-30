@@ -47,7 +47,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Find Digits|[Find Digits](./algorithms/implementation/FindDigits.java)|
 |Save The Prisoner|[Save The Prisoner](./algorithms/implementation/SaveThePrisoner.java)|
 |Sherlock and Squares|[Sherlock and Squares](./algorithms/implementation/SherlockAndSquares.java)|
-|Electronics Shop|[Electronic Shop](./algorithms/implementation/ElectronicsShop.java)|
+|Electronics Shop|[Electronics Shop](./algorithms/implementation/ElectronicsShop.java)|
 
 
 
