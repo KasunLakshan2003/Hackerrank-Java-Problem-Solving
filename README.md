@@ -46,6 +46,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Counting Valleys|[Counting Valleys](./algorithms/implementation/CountingValleys.java)|
 |Find Digits|[Find Digits](./algorithms/implementation/FindDigits.java)|
 |Save The Prisoner|[Save The Prisoner](./algorithms/implementation/SaveThePrisoner.java)|
+|Sherlock and Squares|[Sherlock and Squares](./algorithms/implementation/SherlockAndSquares.java)|
 
 
 
