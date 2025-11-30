@@ -48,6 +48,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Save The Prisoner|[Save The Prisoner](./algorithms/implementation/SaveThePrisoner.java)|
 |Sherlock and Squares|[Sherlock and Squares](./algorithms/implementation/SherlockAndSquares.java)|
 |Electronics Shop|[Electronics Shop](./algorithms/implementation/ElectronicsShop.java)|
+|Number Line Jumps|[Number Line jumps](/.algorithms/implementation/NumberLineJumps.java)|
 
 
 
