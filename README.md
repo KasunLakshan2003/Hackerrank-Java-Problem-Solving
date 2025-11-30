@@ -49,6 +49,7 @@ This repository contains my solutions to various Hackerrank challenges, categori
 |Sherlock and Squares|[Sherlock and Squares](./algorithms/implementation/SherlockAndSquares.java)|
 |Electronics Shop|[Electronics Shop](./algorithms/implementation/ElectronicsShop.java)|
 |Number Line Jumps|[Number Line jumps](/.algorithms/implementation/NumberLineJumps.java)|
+|Grading Students|[Grading Students](./algorithms/implementation/GradingStudents.java)|
 
 
 
